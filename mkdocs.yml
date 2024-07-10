@@ -2,7 +2,10 @@ site_name: Shuzi's blog
 
 theme:
     name: material
+<<<<<<< HEAD
     
+=======
+>>>>>>> 6638bffe2484f8c8d57e2648cac42ce1404ea5f2
 nav: 
   - 主页: index.md
   - 关于我: about.md
