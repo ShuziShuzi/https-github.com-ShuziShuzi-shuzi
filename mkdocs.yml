@@ -1,5 +1,8 @@
 site_name: Shuzi's blog
 
+theme:
+    name: material
+    
 nav: 
   - 主页: index.md
   - 关于我: about.md

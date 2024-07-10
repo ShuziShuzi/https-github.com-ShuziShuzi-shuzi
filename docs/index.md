@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to Shuzi's blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+碎碎念：心血来潮整了这么一个网站，可能放一些课程笔记、复习资料、回忆卷还有杂七杂八的心得体会，不知道后面会不会放弃，但大概率不会（毕竟我废话居多）
 
-## Commands
+## 这里有什么？
+* 复习资料
+* 课程笔记
+* 学生组织工作分享(ZJU)
+* 日记(可以公之于众的那种)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 想和我聊天？
+* CC98：梳子梳淑子
+* Email：1173653486@qq.com
+* 朵朵：（这个晚点吧先不掉码
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 建设中......
